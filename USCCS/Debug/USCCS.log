@@ -1,0 +1,15 @@
+﻿Build started 2017/6/10 23:02:25.
+     1>Project "D:\Visual Studio Projects\USCCS\USCCS\USCCS.vcxproj" on node 2 (Build target(s)).
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0409" /IDebug\ /nologo /fo"Debug\USCCS.res" USCCS.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual Studio Projects\USCCS\Debug\USCCS.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Visual Studio Projects\USCCS\Debug\USCCS.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual Studio Projects\USCCS\Debug\USCCS.lib" /MACHINE:X86 Debug\USCCS.res
+         Debug\stdafx.obj
+         Debug\USCCS.obj
+         Debug\USCCSDlg.obj
+         USCCS.vcxproj -> D:\Visual Studio Projects\USCCS\Debug\USCCS.exe
+     1>Done Building Project "D:\Visual Studio Projects\USCCS\USCCS\USCCS.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.94
